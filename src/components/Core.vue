@@ -59,7 +59,7 @@ export default {
       'Erlang mi',
       'TypeScript mi',
       'Dart mı',
-      'HolyC mi
+      'HolyC mi'
     ]
   }),
 
