@@ -44,7 +44,8 @@ export default {
       'Brainfuck mı',
       'CuntScript mi',
       'Cunt Empire mı',
-      'Pezevenklerin elinden kurtarma mı'
+      'Pezevenklerin elinden kurtarma mı',
+      'Dvorak mı'
     ],
 
     sunuMu: [
@@ -57,7 +58,8 @@ export default {
       'Elm mi',
       'Erlang mi',
       'TypeScript mi',
-      'Dart mı'
+      'Dart mı',
+      'HolyC mi
     ]
   }),
 
