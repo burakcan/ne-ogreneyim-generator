@@ -45,7 +45,8 @@ export default {
       'CuntScript mi',
       'Cunt Empire mı',
       'Pezevenklerin elinden kurtarma mı',
-      'Dvorak mı'
+      'Dvorak mı',
+      'Anal fisting mi'
     ],
 
     sunuMu: [
@@ -59,7 +60,7 @@ export default {
       'Erlang mi',
       'TypeScript mi',
       'Dart mı',
-      'HolyC mi'
+      'HolyC mi
     ]
   }),
 
